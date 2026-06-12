@@ -1,3 +1,10 @@
+### macOS ###
+.DS_Store
+
+### Project ###
+# old snapshot archive of the app, not needed in the repo
+PalmAtlas.zip
+
 ### R ###
 # History files
 .Rhistory
