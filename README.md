@@ -1,11 +1,13 @@
 # CaryotAtlas
 
+[![Launch the app](https://img.shields.io/badge/Launch-CaryotAtlas-2e8b57?style=for-the-badge)](https://ben-york.shinyapps.io/CaryotAtlas/)
+
 An interactive R Shiny app for exploring the global distribution of the palm
 genus *[Caryota](https://en.wikipedia.org/wiki/Caryota)* (the fishtail palms).
 Users pick a species, a year range, and a data-cleaning level, and the app draws
 an occurrence map and lets them download the underlying dataset.
 
-**Live app:** https://ben-york.shinyapps.io/CaryotAtlas/
+**▶ Live app: https://ben-york.shinyapps.io/CaryotAtlas/**
 
 Developed as part of the [Plant Evolutionary Biology group](https://bios.au.dk/)
 at Aarhus University.
